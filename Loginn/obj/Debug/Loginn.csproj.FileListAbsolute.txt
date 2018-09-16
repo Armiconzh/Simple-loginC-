@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2012\Projects\Loginn\Loginn\bin\Debug\Loginn.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\Loginn\Loginn\bin\Debug\Loginn.exe
+c:\users\hp\documents\visual studio 2012\Projects\Loginn\Loginn\bin\Debug\Loginn.pdb
+c:\users\hp\documents\visual studio 2012\Projects\Loginn\Loginn\obj\Debug\Loginn.Form1.resources
+c:\users\hp\documents\visual studio 2012\Projects\Loginn\Loginn\obj\Debug\Loginn.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2012\Projects\Loginn\Loginn\obj\Debug\Loginn.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2012\Projects\Loginn\Loginn\obj\Debug\Loginn.exe
+c:\users\hp\documents\visual studio 2012\Projects\Loginn\Loginn\obj\Debug\Loginn.pdb
+c:\users\hp\documents\visual studio 2012\Projects\Loginn\Loginn\obj\Debug\Loginn.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\Loginn\Loginn\obj\Debug\Loginn.Form2.resources
